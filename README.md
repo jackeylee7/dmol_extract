@@ -1,5 +1,5 @@
 # dmol_extract
-# dmol坐标和能量结构提取方法
+# dmol坐标和能量提取方法
 ###
 功能：程序会提取执行路径下所有以'outmol'结尾文件内的结构和能量信息
 输出文件：output.npy
