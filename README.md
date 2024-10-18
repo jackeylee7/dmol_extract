@@ -5,7 +5,7 @@
 输出文件：output.npy
                  output_paths.txt (输出读取文件的绝对地址)
 
-a = np.load('output.npy',allow_pickle=True)
+解释：a = np.load('output.npy',allow_pickle=True)
 a[0] 输出第一个计算文件夹内全部的结构和能量
 a[0][0] 第一个计算文件夹的第一个结构，a[0][1]第一个计算文件夹的第一个能量
 a[0][2] 第一个计算文件夹的第二个结构，a[0][3]第一个计算文件夹的第二个能量，以此类推；
